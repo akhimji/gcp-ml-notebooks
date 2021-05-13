@@ -1,2 +1,2 @@
-# tuti-repo
-Repository for TUTI (Template for UCAIP Training and Inference)
+# Training Notebooks
+Repository Template for UCAIP Training and Inference)
